@@ -1,7 +1,7 @@
 {
-  "name": "next1",
+  "name": "node-next",
   "version": "1.0.0",
-  "description": "",
+  "description": "node + mongodb + ejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
